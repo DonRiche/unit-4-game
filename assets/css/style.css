@@ -1,0 +1,69 @@
+body{
+    margin: 20px;
+}
+
+.my-container{
+    background-color: rgb(0, 211, 211);
+    border-radius: 10px;
+    height: 800px;
+}
+
+.my-rowHeader{
+    background-color: rgb(235, 200, 4);
+    text-align: center;
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 8em;
+    border-radius: 10px;
+}
+
+.pcNumber{
+    background-color: rgb(9, 170, 170);
+    border-radius: 10px;
+}
+
+.pcCounter{
+    background-color: rgb(9, 170, 170);
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.scoreCounter{
+    background-color: rgb(8, 196, 117);
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+.gemButtons{
+background-color: rgba(211, 83, 83, 0.801);
+}
+
+.scoreString{
+    background-color: rgb(235, 200, 4);
+    text-align: center;
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 8em;
+    border-radius: 10px;
+}
+
+.userNumber{
+    background-color: rgb(9, 170, 170);
+    border-radius: 10px;
+}
+
+.userCounter{
+    background-color: rgb(9, 170, 170);
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 7em;
+    text-align: center;
+    margin-top: 4%;
+}
+
+@media(min-width){
+
+};
